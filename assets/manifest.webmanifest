@@ -1,0 +1,1 @@
+{ 	"name": "Metasurfaces for energy conversion — Stefan Maier", 	"start_url": "../index.html?standalone=1", 	"display": "standalone", 	"background_color": "#000", 	"description": "Metasurfaces for energy conversion", 	"icons": [ 		{ 			"src": "images/icon.png", 			"sizes": "144x144", 			"type": "image/png", 			"purpose": "any maskable" 		} 	] }
